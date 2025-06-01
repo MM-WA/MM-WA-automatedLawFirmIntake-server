@@ -1,1 +1,31 @@
-# Backend with Node & Express
+## Automated Law Firm Intake - Backend  
+[![Frontend](https://img.shields.io/badge/Frontend_Repo_Link-%235C5C5C)](https://github.com/MM-WA/automatedLawFirmIntake-server)
+
+This is the frontend of a law firm website having a chatbot on landing page to collect initial information from clients and send that information to the lawyers automatically through email.  
+
+![screenshot](public/screenshot.jpg)
+
+### Features  
+- Helps Law firm to intake new client 
+
+### Setup Locally
+**1.** Clone the project
+```bash
+git clone https://github.com/MM-WA/automatedLawFirmIntake-client.git
+```
+**2.** Move to the project directory
+```bash
+cd automatedLawFirmIntake-client
+```
+**3.** Install dependencies
+```bash
+npm install
+```
+
+### Run the Server
+```bash
+npm run dev
+```
+
+### Author
+Mian Muhammad Waleed Asif
