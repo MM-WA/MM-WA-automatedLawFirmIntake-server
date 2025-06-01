@@ -1,9 +1,7 @@
 ## Automated Law Firm Intake - Backend  
-[![Frontend](https://img.shields.io/badge/Frontend_Repo_Link-%235C5C5C)](https://github.com/MM-WA/automatedLawFirmIntake-server)
+[![Frontend](https://img.shields.io/badge/Frontend_Repo_Link-%235C5C5C)](https://github.com/MM-WA/automatedLawFirmIntake-client)
 
 This is the frontend of a law firm website having a chatbot on landing page to collect initial information from clients and send that information to the lawyers automatically through email.  
-
-![screenshot](public/screenshot.jpg)
 
 ### Features  
 - Helps Law firm to intake new client 
