@@ -22,6 +22,17 @@ cd automatedLawFirmIntake-server
 npm install
 ```
 
+### Configuration  
+Before running the project create `.env` in root directry and provide following keys  
+```envPORT = 8000
+CORS_ORIGIN = *
+OPENAI_API_KEY = 
+EMAIL = 
+GOOGLE_APP_PASSWORD = 
+TO_EMAIL = 
+```
+
+
 ### Run the Server
 ```bash
 npm run dev
